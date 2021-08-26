@@ -45,7 +45,7 @@ public class Bicycle extends Vehicle {
 
         System.out.println("Getting Wrenches and Screws! Replacing Bicycle Wheels!");
 
-        if (wheels.length != newWheelCount) {
+        if (wheelCount != newWheelCount) {
             System.out.println("Can't replace wheels of Bicycle.");
             return false;
         }

@@ -60,7 +60,7 @@ public class Car extends Vehicle {
 
         System.out.println("Getting Car Tires and Car Jack. Replacing Car Wheels!");
 
-        if (wheels.length != newWheelCount) {
+        if (wheelCount != newWheelCount) {
             System.out.println("Can't replace wheels of Car.");
             return false;
         }

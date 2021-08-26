@@ -7,8 +7,8 @@ public class Main {
         car1.setName("Sam");
         car1.setModelYear(2020);
         car1.setTopSpeed(155);
+        car1.repaint("Blue");
         car1.start();
-
         Bicycle bicycle1 = new Bicycle();
         bicycle1.setName("Bikey");
         bicycle1.setColor("Red");

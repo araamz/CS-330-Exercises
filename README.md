@@ -1,4 +1,4 @@
-# CS 330: Design Patterns
+# Design-Pattern-Exercises
 ## Purpose 
 This GitHub repository is made to store in-class exercise from CS 330: Design Patterns course at the University of Nevada, Reno. **These assignments were created with pair programming.** Each folder may contain the following: exercise document, UML of implementation, and source code.
 ## List of Implemented Design Patterns
